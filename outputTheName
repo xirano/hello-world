@@ -1,0 +1,5 @@
+//test
+
+public void outputTheName(String name){
+    System.out.println(name);
+    }
